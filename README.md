@@ -26,8 +26,6 @@ Author: Arif Ul Islam (Ron)
 
 ![3-App](Resources/Images/image_app.png)
 
-3-App
-
 Conclusions
 This is just a small step in applying machine learning to recylcing and waste sorting. In order to make a significant impact in waste sorting plants and on the recycling rate globally, much more sophisticated models, i.e., ones that can classify materials into multiple categories and sub-categories, would need to be developed so that waste could be efficiently and correctly sorted at a large scale level.
 
