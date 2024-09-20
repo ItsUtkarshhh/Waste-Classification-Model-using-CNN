@@ -1,4 +1,4 @@
-Final Project: Machine Learning Waste Classification Model
+#Final Project: Machine Learning Waste Classification Model
 Project Members: Lareena Llamado, Kathy Manthey, Manuela Muñoz, Nicole Muscanell
 
 Background & Purpose
