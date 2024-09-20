@@ -12,7 +12,7 @@ Link to data: https://www.kaggle.com/techsash/waste-classification-data
 Model Building and Evaluation
 We built a convolutional neural network model using Keras and Tensorflow. The base model was pre-trained transfer learning model: VGG16 with ImageNet weights. To this, we added customized dense layers in addition to other features such as layer freezing and dropout. We set our model to train for 20 epochs and added an early stopping callback. The highest accuracy reached was .94. The overall accuracy for the model was .939 and the loss was .365. Matplotlib and Seaborn were used to plot the results of the training and evaluation, in addition to generating visualizations of the base model features and layers.
 
-1-Loss
+![1-Loss](Resources/Images/model_loss.png)
 
 2-Accuracy
 
