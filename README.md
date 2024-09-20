@@ -22,6 +22,7 @@ We followed this article's steps to set up our Flask App:
 Link: https://medium.com/@arifulislam_ron/flask-web-application-to-classify-image-using-vgg16-d9c46f29c4cd
 Author: Arif Ul Islam (Ron)
 
+
 ![3-App](Resources/Images/image_app.png)
 
 3-App
