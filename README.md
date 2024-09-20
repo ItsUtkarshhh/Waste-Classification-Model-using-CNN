@@ -1,6 +1,5 @@
 # Final Project: Machine Learning Waste Classification Model
-Project Members: Lareena Llamado, Kathy Manthey, Manuela Muñoz, Nicole Muscanell
-
+### Project Members: Paresh Bansal, Utkarsh Verma, Rohan Agarwal, Preyansh Sharma
 Background & Purpose
 Recycling waste material is a huge challenge globally. This is because waste is not only challenging to sort at the human level, but it is also time consuming and often hazardous. One promising area of research and innovation that could be used to address this problem is machine learning and artificial intelligence. Using smart technology to classify waste could be a cost efficient, safe, and possibly even more accurate method of sorting large amounts of waste in a timely manner, which could thereby help to improve the recycling rate. The purpose of this project is to build a machine learning model that classifies images of materials and objects as being organic or recyclable.
 
