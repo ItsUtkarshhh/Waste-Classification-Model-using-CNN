@@ -20,7 +20,7 @@ We built a front-end web application using Python Flask, which employs the follo
 
 We followed this article's steps to set up our Flask App:
 Link: https://medium.com/@arifulislam_ron/flask-web-application-to-classify-image-using-vgg16-d9c46f29c4cd
-br>
+<br>
 Author: Arif Ul Islam (Ron)
 
 
